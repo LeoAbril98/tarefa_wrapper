@@ -51,5 +51,4 @@ Tabela de conteúdos
 # Saída:
 Número primitivo: 42
 Número wrapper: 42
-### 🧑‍💻 Autor
-<p>Feito por Leonardo Abril.</p>
+
